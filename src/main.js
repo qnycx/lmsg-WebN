@@ -1,7 +1,7 @@
 import { createPinia } from 'pinia';
 import { createApp } from 'vue';
 import piniaPluginPersistedState from 'pinia-plugin-persistedstate';
-
+import './assets/css/tailwind.css'
 import App from './App.vue';
 import router from './router';
 

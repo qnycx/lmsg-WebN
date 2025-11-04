@@ -16,7 +16,7 @@ const router = createRouter({
     {
       path: '/404',
       name: '404',
-      component: () => import('@/views/error/404.vue'),
+      component: () => import('@/views/error/Error404.vue'),
     },
   ],
 })

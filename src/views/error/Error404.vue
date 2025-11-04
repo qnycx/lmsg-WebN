@@ -4,7 +4,7 @@
       <img src="@/assets/images/error/404.png" alt="404 illustration" class="not-found-image" />
       <h1 class="not-found-title">Oops! 页面找不到了</h1>
       <p class="not-found-text">你访问的页面不存在或已被移除</p>
-      <el-button type="primary" @click="goHome" class="home-button"> 返回首页 </el-button>
+      <el-button type="primary" @click="goHome" class="home-button"> 返回首页</el-button>
     </div>
   </div>
 </template>
